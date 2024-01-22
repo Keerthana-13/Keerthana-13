@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keerthana-13
-- 👀 I’m interested in Data scientist
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I completed my Masters in Data Science
 - 📫 Reach me - dkeerthana98@gmail.com
 
 <!---
